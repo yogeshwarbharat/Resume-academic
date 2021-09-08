@@ -31,10 +31,10 @@ education:
       year: ""
     - course: MS in Quantitative Economics
       institution: Indian Statistical Institute, Delhi
-      year: 2011
+      year: 2013
     - course: BS+MS in Physics
       institution: Indian Institute of Technology, Kharagpur
-      year: 2008
+      year: 2009
 email: ""
 superuser: true
 highlight_name: true
