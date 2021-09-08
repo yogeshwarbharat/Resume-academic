@@ -26,7 +26,7 @@ experience:
 widget_id: jmp
 headless: true
 weight: 40
-title: Experience
+title: Job Market Paper
 subtitle: null
 design:
   columns: "2"
